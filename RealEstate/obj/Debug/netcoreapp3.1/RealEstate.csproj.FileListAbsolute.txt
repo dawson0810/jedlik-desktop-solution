@@ -1,0 +1,15 @@
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\realestates.csv
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.AssemblyReference.cache
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\butyk\Documents\Susu\Progi\ProbaVizsga\myMegoldasok\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache

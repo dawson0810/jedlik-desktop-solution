@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkhDmehisVd2rXoz6E3LdSEkkJUoRO/MxY/JeABHIufcoer6R2lkuMMSo6bVwFNIsD6XiCzSI2E9ohIPCz5MwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\butyk\\Documents\\Susu\\Progi\\ProbaVizsga\\myMegoldasok\\RealEstate\\RealEstate\\RealEstate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\butyk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
